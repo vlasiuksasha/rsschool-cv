@@ -35,10 +35,13 @@ __I think that I am a very motivated and enduring person, because every day I ge
 
 ### _Languages:_
 -	__English__ – Intermediate;
+![Текст](Снимок.PNG)  
 -	__Ukraine__ – native;
 -	__Russian__ – Intermediate;
 -	__France__ – basic.
 
+### _Code example:_
+![Текст](1.jpg)  
 
 
 
