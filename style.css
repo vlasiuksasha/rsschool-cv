@@ -1,0 +1,32 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	list-style:none;
+	font-family: 'Poppins', sans-serif;
+}
+
+body{
+	background-color: whitesmoke;
+}
+
+.main-content{
+	min-height: 100vh;
+	width: 80%;
+	margin: 2rem auto;
+	background-color:rgba(37, 37, 207, 0.719);
+	display: grid;
+	grid-template-columns: repeat(7, 1fr);
+}
+
+.left-section{
+	grid-column: span 2;
+	height: 100%;
+	background-color: rgb(5, 5, 141);
+}
+
+.right-section{
+	grid-column: span 5;
+	background-color: #ccc;
+	height: 100%;
+}
