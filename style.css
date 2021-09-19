@@ -233,12 +233,15 @@ border-bottom: 1px solid #00115c;
    padding: 20px;
    font-size: 0.8rem;
    color: #ffffff;
-   background-color: #553123;
+   background-color: #101970;
 }
 
 .my-github {
    display: flex;
-   align-items: center; }
+   align-items: center; 
+	padding-bottom: 30px;
+	text-decoration: #FDFCE5;
+}
 
 footer a {
       text-decoration: none;
